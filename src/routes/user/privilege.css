@@ -1,0 +1,22 @@
+﻿.headDiv {
+  border-bottom: solid 1px #bbbbbb;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.treeNode {
+  font-size: 15px;
+  color: #101010;
+}
+.content {
+  margin-top:20px;
+}
+.roleDiv {
+  width:30%;
+  float:left;
+  padding-left:20px;
+}
+.menuDiv {
+  float: left;
+  padding-left: 30px;
+  border-left: 1px solid #bbbbbb;
+}

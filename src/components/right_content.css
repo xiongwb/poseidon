@@ -1,0 +1,35 @@
+.root{
+
+}
+.div{
+  min-height:450px;
+  background-color: #eeeeee;
+}
+
+.square{
+  height:100px;
+  width:100px ;
+  background-color: #fffdff;
+  box-shadow:0px 4px 0px 0px #d9d9d9 ;
+}
+.rectangle{
+  height:310px;
+  width:270px ;
+  background-color: #fffdff;
+  box-shadow:0px 4px 0px 0px #d9d9d9 ;
+
+}
+.bottom_square{
+  height:200px;
+  width:440px ;
+  background-color: #fffdff;
+  box-shadow:0px 4px 0px 0px #d9d9d9 ;
+
+
+}
+.top{
+  height:50px;
+  width:440px ;
+  background-color: #43c9d5;
+
+}

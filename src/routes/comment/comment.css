@@ -1,0 +1,53 @@
+.comment h2 {
+}
+
+.reply h2 {
+}
+.reply p {
+  margin-left: 100px;
+  margin-right: 200px;
+  margin-top: 20px;
+}
+
+.image{
+  height: 100px;
+  display: block;
+  padding: 5px;
+  margin-left: 100px;
+}
+.reply text {
+  font-size: 13px;
+}
+
+.starsTitle {
+  margin-top: 10px;
+  float: left;
+}
+.content {
+  margin-top: 17px;
+  float: left;
+}
+
+.stars {
+  margin: 5px 10px 10px 60px;
+}
+
+
+.textareaTitle {
+  float: left;
+}
+
+.textarea {
+  height: 100px;
+  width: 500px;
+  margin-left: 50px;
+}
+
+.textareaDiv {
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.button {
+  margin: 10px 50px 0px 250px;
+}

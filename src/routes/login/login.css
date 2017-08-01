@@ -1,0 +1,28 @@
+﻿.root{
+  background-color: #fff;
+  height:100%;
+  padding-top: 15%;
+}
+.logo{
+  height: 100px;
+  display: block;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.loginForm{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn_sendCode{
+  width: 100%;
+}
+.btn_register{
+	width: 40%;
+	float: left;
+}
+.btn_login{
+	width: 100%;
+	
+}

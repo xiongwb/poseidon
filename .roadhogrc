@@ -1,0 +1,25 @@
+{
+  "entry": "src/index.js",
+  "disableCSSModules": false,
+  "theme": "src/theme.js",
+  "publicPath": "/",
+  "autoprefixer": null,
+  "proxy": {
+    "/api": {
+      "target": "http://192.168.199.247:8088/",
+      "changeOrigin": true,
+      "pathRewrite": { "^/api" : "" }
+    }
+  },
+  "extraBabelPlugins": [
+    "transform-runtime",
+    ["import", { "libraryName": "antd", "style": true }]
+  ],
+  "env": {
+    "development": {
+      "extraBabelPlugins": [
+        "dva-hmr"
+      ]
+    }
+  }
+}

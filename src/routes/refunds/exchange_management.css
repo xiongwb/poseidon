@@ -1,0 +1,81 @@
+
+.customer_service_audit h3 {
+  margin: 10px 10px 10px 20px;
+  float: left;
+}
+
+
+.p {
+  width: 420px;
+  border-right: 1px solid #bbbbbb;
+  float: left;
+  height: 260px;
+}
+.p h4 {
+  float: left;
+  margin-left: 20px;
+}
+.s {
+  float: left;
+  width: 420px;
+  height: 260px;
+}
+.s h4 {
+  float: left;
+  margin-left: 20px;
+}
+.f {
+  float: none;
+  margin-top: 260px;
+}
+.wwd {
+  margin: 10px 0px 0px 100px;
+  float:left;
+}
+.ww {
+  margin: 10px 0px 10px 160px;
+  float: left;
+}
+.dd {
+  margin: 10px 0px 10px 160px;
+  float: left;
+}
+.xx{
+  float: left;
+  margin: 0px 0px 0px 203px;
+  width: 1px;
+  height: 40px;
+  background-color: #bbbbbb;
+}
+.wwc {
+  margin: 10px 0px 0px 265px;
+  float:left;
+}
+.inp {
+  width: 300px;
+  margin-bottom: 20px;
+}
+.bt1 {
+  margin-left: 265px;
+}
+.bt2 {
+  margin-left: 163px;
+}
+.hr {
+  margin-bottom: 10px;
+}
+.textareaTitle {
+  float: left;
+  margin-left: 200px;
+}
+
+.textarea {
+  height: 50px;
+  width: 300px;
+  margin-left: 10px;
+}
+
+.textareaDiv {
+  margin-top: 10px;
+  margin-left: 0px;
+}

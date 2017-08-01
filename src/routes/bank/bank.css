@@ -1,0 +1,63 @@
+.bank input {
+  width: 100px;
+  margin: 10px 30px 10px 0px;
+  float: left;
+}
+.bank h3 {
+  margin: 12px 10px 10px 0px;
+  display: inline;
+  float: left;
+}
+
+.message {
+  margin: 30px 0px 0px 50px;
+}
+
+.messageLeft {
+  text-align: right;
+}
+
+.formCheck {
+  margin: 20px 0px 0px 0px;
+}
+
+.store h3 {
+  margin: 12px 10px 10px 0px;
+  display: inline;
+  float: left;
+}
+
+.store input {
+  width: 100px;
+  margin: 10px 30px 10px 0px;
+  float: left;
+}
+
+.formText {
+}
+
+.submit {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.modal {
+  background-color: #eeeeee;
+  height: 40px;
+  line-height:40px;
+  overflow:hidden;
+  border-width: 1px;
+  border-color: #dddddd;
+  border-style: solid;
+}
+
+.icon {
+  margin: 16px 30px 10px 0px;
+  font-size: 16px;
+  display: inline;
+  float: left;
+}
+
+

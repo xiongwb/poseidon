@@ -1,0 +1,105 @@
+.Order input {
+  width: 150px;
+  margin: 10px 10px 10px 0px;
+  float: left;
+
+}
+.Order h2 {
+  margin: 10px 10px 10px 0px;
+  display: inline;
+  float: left;
+}
+.Order button {
+  ghost:true;
+  margin: 10px 0px 10px 0px;
+  width: 100px;
+
+}
+.Order h3 {
+  margin: 10px 10px 10px 0px;
+  display: inline;
+  float: left;
+}
+.loginForm{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icon {
+  margin: 16px 80px 10px 0px;
+  font-size: 16px;
+  display: inline;
+  float: left;
+
+
+}
+.from {
+  width: 120px;
+  margin: 10px 10px 10px 0px;
+  float: left;
+
+}
+.icon2 {
+  margin: 16px 5px 10px 0px;
+  font-size: 16px;
+  display: inline;
+  float: left;
+
+
+}
+.Breadcrumb{
+  margin:50px 0px 50px 0px  ;
+
+}
+.h2{
+  margin:0px 0px 0px 0px;
+  display: inline;
+  float: left;
+}
+.icon3 {
+  margin: 16px 5px 10px 16px;
+  font-size: 16px;
+  display: inline;
+  float: right;
+}
+.juli {
+  margin-top: 40px;
+}
+.xiangqing {
+  margin-top: 50px;
+  margin-left: 200px;
+
+}
+.xiangqingi {
+  margin-top: 10px;
+  margin-left: 200px;
+
+}
+.message {
+  margin: 30px 0px 0px 50px;
+}
+.messageLeft {
+  text-align: right;
+
+}
+.fahuo {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.left {
+  margin: 0px 0px 0px 20px;
+  width: 120px;
+  float: left;
+  display: inline;
+}
+.messageLeft1 {
+  text-align: right;
+  margin-top: 6px;
+
+}
+.hh {
+  margin: 40px 0px 100px 210px;
+
+
+}

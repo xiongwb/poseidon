@@ -1,0 +1,42 @@
+.setting input {
+  width: 100px;
+  margin: 10px 30px 10px 0px;
+  float: left;
+}
+.setting h3 {
+  margin: 12px 10px 10px 0px;
+  display: inline;
+  float: left;
+}
+.button {
+  float: right;
+  margin: 10px 30px 10px 0px;
+}
+.search {
+  float: left;
+  margin: 10px 30px 10px 0px;
+}
+.updata {
+  display: inline;
+}
+
+.submit {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.spin{
+  text-align: center;
+  margin-top: 20%;
+}
+.search_icon {
+  display: inline;
+  font-size:15px;
+  float: left;
+  margin: 17px 0px 10px 20px;
+}
+.spin{
+  text-align: center;
+  margin-top: 15%;
+}

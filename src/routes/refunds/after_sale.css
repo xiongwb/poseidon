@@ -1,0 +1,26 @@
+.after_sale input {
+  width: 150px;
+  margin: 10px 10px 10px 0px;
+  float: left;
+}
+.select{
+  width: 125px;
+  margin: 10px 10px 10px 0px;
+  float: left;
+}
+.after_sale h3 {
+  margin: 12px 10px 10px 0px;
+  float: left;
+}
+.after_sale button {
+  float: right;
+  margin: 10px 0px 10px 0px;
+  width: 100px;
+}
+.search {
+  float: left;
+}
+.searchBtn {
+  border:none;
+}
+

@@ -1,0 +1,35 @@
+.confirm_goods h3 {
+  margin: 10px 10px 10px 20px;
+  display: inline;
+  float: left;
+}
+.confirm_goods p {
+  margin: 30px 30px 30px 150px;
+}
+.button {
+  margin: 30px 30px 30px 0px;
+  margin-left: 45%;
+
+}
+.td{
+
+  min-height: 100px;
+  border-left: 1px solid #bbbbbb;
+}
+.td_img{
+  margin-left: 35%;
+
+}
+.td_title{
+
+  background-color:#43c9d5;
+  position: relative;
+  width: 50%;
+
+}
+.td_text{
+
+  margin-top: 20px;
+  margin-left: 35%;
+}
+

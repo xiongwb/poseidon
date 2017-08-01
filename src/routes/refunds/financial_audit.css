@@ -1,0 +1,43 @@
+.financial_audit input {
+  width: 150px;
+  margin: 10px 10px 10px 0px;
+  float: left;
+}
+.financial_audit h3 {
+  margin: 10px 10px 10px 20px;
+  display: inline;
+  float: left;
+}
+.financial_audit h4 {
+  float: right;
+  margin: 10px 10px 0px 0px;
+}
+.financial_audit button {
+  float: right;
+  margin: 10px 0px 10px 0px;
+  width: 100px;
+}
+.p p {
+  margin: 10px 0px 0px 200px;
+  float:left;
+}
+.p h4 {
+  text-align: center;
+  float: left;
+  margin-left: 20px;
+}
+.p input {
+  float: left;
+  margin-left: 20px;
+}
+.p hr {
+  margin-top: 20px;
+}
+.p button {
+  float: left;
+  margin-left: 20px;
+}
+.wwd {
+  margin: 10px 0px 0px 200px;
+  float:left;
+}
